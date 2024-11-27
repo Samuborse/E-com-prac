@@ -334,3 +334,51 @@ color: white;
  <p>&copy; 2024 Online Shopping Site</p>
  </footer>
 </body>
+
+
+
+
+
+
+
+Pract no 5 Demonstrate domain registration
+Steps to Register a Domain Name
+1. Choose a Domain Name:
+o Think of a unique, memorable name that represents your brand or project.
+o Keep it short, easy to spell, and relevant to your content or business.
+
+2. Check Domain Availability:
+o Use a domain name registrar or a domain search tool to check if your desired domain 
+name is available.
+o Common domain registrars include GoDaddy, Namecheap, Google Domains, and others.
+
+3. Select a Domain Registrar:
+o Choose a reputable domain registrar. Some popular options are:
+ GoDaddy
+ Namecheap
+ Google Domains
+ Bluehost
+
+4. Register the Domain:
+o Follow the registrar’s process to register the domain name.
+o Provide your contact information and choose a registration period (typically 1 year or 
+more).
+
+5. Complete Payment:
+o Pay for the domain registration. Costs vary depending on the registrar and the domain 
+extension (.com, .net, .org, etc.).
+
+6. Verify Ownership:
+o You will receive an email to verify your email address. Follow the instructions to 
+complete the registration.
+
+7. Configure Domain Settings:
+o After registration, you can configure DNS settings, such as setting up email, connecting 
+the domain to a website, or adding subdomains.
+Mock Walkthrough
+1. Choose a Domain Name:
+ Let’s say we want to register example-shop.com.
+2. Check Domain Availability:
+ Go to Namecheap’s domain search and enter example-shop.com.
+3. Select a Domain Registrar:
+ We’ll use Namecheap for this example.
